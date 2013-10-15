@@ -18,6 +18,7 @@ void tolva( int* hruga );
 //Þetta fall lætur notandann gera:
 void notandi( int* hruga );
 
+//herna kom telma og breytti commenti
 //Þetta fall birtir reglurnar í spilinu:
 void hjalp( );
 
